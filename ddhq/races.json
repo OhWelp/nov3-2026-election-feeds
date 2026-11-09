@@ -1,0 +1,3544 @@
+{
+ "AK-01": {
+  "ddhq_id": 294717,
+  "district": "At-Large",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/alaska-us-house-at-large-general-election"
+ },
+ "AK-GOV": {
+  "ddhq_id": 716858,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/alaska-governor-general-election"
+ },
+ "AK-SEN": {
+  "ddhq_id": 294672,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/alaska-us-senate-general-election"
+ },
+ "AL-01": {
+  "ddhq_id": 294710,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/alabama-us-house-1-general-election"
+ },
+ "AL-02": {
+  "ddhq_id": 294711,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/alabama-us-house-2-general-election"
+ },
+ "AL-03": {
+  "ddhq_id": 294712,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/alabama-us-house-3-general-election"
+ },
+ "AL-04": {
+  "ddhq_id": 294713,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/alabama-us-house-4-general-election"
+ },
+ "AL-05": {
+  "ddhq_id": 294714,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/alabama-us-house-5-general-election"
+ },
+ "AL-06": {
+  "ddhq_id": 294715,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/alabama-us-house-6-general-election"
+ },
+ "AL-07": {
+  "ddhq_id": 294716,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/alabama-us-house-7-general-election"
+ },
+ "AL-GOV": {
+  "ddhq_id": 700160,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/alabama-governor-general-election"
+ },
+ "AL-SEN": {
+  "ddhq_id": 294671,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/alabama-us-senate-general-election"
+ },
+ "AR-01": {
+  "ddhq_id": 294727,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/arkansas-us-house-1-general-election"
+ },
+ "AR-02": {
+  "ddhq_id": 294728,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/arkansas-us-house-2-general-election"
+ },
+ "AR-03": {
+  "ddhq_id": 294729,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/arkansas-us-house-3-general-election"
+ },
+ "AR-04": {
+  "ddhq_id": 294730,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/arkansas-us-house-4-general-election"
+ },
+ "AR-GOV": {
+  "ddhq_id": 716859,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/arkansas-governor-general-election"
+ },
+ "AR-SEN": {
+  "ddhq_id": 294673,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/arkansas-us-senate-general-election"
+ },
+ "AZ-01": {
+  "ddhq_id": 294718,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/arizona-us-house-1-general-election"
+ },
+ "AZ-02": {
+  "ddhq_id": 294719,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/arizona-us-house-2-general-election"
+ },
+ "AZ-03": {
+  "ddhq_id": 294720,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/arizona-us-house-3-general-election"
+ },
+ "AZ-04": {
+  "ddhq_id": 294721,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/arizona-us-house-4-general-election"
+ },
+ "AZ-05": {
+  "ddhq_id": 294722,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/arizona-us-house-5-general-election"
+ },
+ "AZ-06": {
+  "ddhq_id": 294723,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/arizona-us-house-6-general-election"
+ },
+ "AZ-07": {
+  "ddhq_id": 294724,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/arizona-us-house-7-general-election"
+ },
+ "AZ-08": {
+  "ddhq_id": 294725,
+  "district": "8",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/arizona-us-house-8-general-election"
+ },
+ "AZ-09": {
+  "ddhq_id": 294726,
+  "district": "9",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/arizona-us-house-9-general-election"
+ },
+ "AZ-GOV": {
+  "ddhq_id": 716860,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/arizona-governor-general-election"
+ },
+ "CA-01": {
+  "ddhq_id": 294731,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-1-general-election"
+ },
+ "CA-02": {
+  "ddhq_id": 294732,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-2-general-election"
+ },
+ "CA-03": {
+  "ddhq_id": 294733,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-3-general-election"
+ },
+ "CA-04": {
+  "ddhq_id": 294734,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-4-general-election"
+ },
+ "CA-05": {
+  "ddhq_id": 294735,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-5-general-election"
+ },
+ "CA-06": {
+  "ddhq_id": 294736,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-6-general-election"
+ },
+ "CA-07": {
+  "ddhq_id": 294737,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-7-general-election"
+ },
+ "CA-08": {
+  "ddhq_id": 294738,
+  "district": "8",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-8-general-election"
+ },
+ "CA-09": {
+  "ddhq_id": 294739,
+  "district": "9",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-9-general-election"
+ },
+ "CA-10": {
+  "ddhq_id": 294740,
+  "district": "10",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-10-general-election"
+ },
+ "CA-11": {
+  "ddhq_id": 294741,
+  "district": "11",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-11-general-election"
+ },
+ "CA-12": {
+  "ddhq_id": 294742,
+  "district": "12",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-12-general-election"
+ },
+ "CA-13": {
+  "ddhq_id": 294743,
+  "district": "13",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-13-general-election"
+ },
+ "CA-14": {
+  "ddhq_id": 294744,
+  "district": "14",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-14-general-election"
+ },
+ "CA-15": {
+  "ddhq_id": 294745,
+  "district": "15",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-15-general-election"
+ },
+ "CA-16": {
+  "ddhq_id": 294746,
+  "district": "16",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-16-general-election"
+ },
+ "CA-17": {
+  "ddhq_id": 294747,
+  "district": "17",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-17-general-election"
+ },
+ "CA-18": {
+  "ddhq_id": 294748,
+  "district": "18",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-18-general-election"
+ },
+ "CA-19": {
+  "ddhq_id": 294749,
+  "district": "19",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-19-general-election"
+ },
+ "CA-20": {
+  "ddhq_id": 294750,
+  "district": "20",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-20-general-election"
+ },
+ "CA-21": {
+  "ddhq_id": 294751,
+  "district": "21",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-21-general-election"
+ },
+ "CA-22": {
+  "ddhq_id": 294752,
+  "district": "22",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-22-general-election"
+ },
+ "CA-23": {
+  "ddhq_id": 294753,
+  "district": "23",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-23-general-election"
+ },
+ "CA-24": {
+  "ddhq_id": 294754,
+  "district": "24",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-24-general-election"
+ },
+ "CA-25": {
+  "ddhq_id": 294755,
+  "district": "25",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-25-general-election"
+ },
+ "CA-26": {
+  "ddhq_id": 294756,
+  "district": "26",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-26-general-election"
+ },
+ "CA-27": {
+  "ddhq_id": 294757,
+  "district": "27",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-27-general-election"
+ },
+ "CA-28": {
+  "ddhq_id": 294758,
+  "district": "28",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-28-general-election"
+ },
+ "CA-29": {
+  "ddhq_id": 294759,
+  "district": "29",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-29-general-election"
+ },
+ "CA-30": {
+  "ddhq_id": 294760,
+  "district": "30",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-30-general-election"
+ },
+ "CA-31": {
+  "ddhq_id": 294761,
+  "district": "31",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-31-general-election"
+ },
+ "CA-32": {
+  "ddhq_id": 294762,
+  "district": "32",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-32-general-election"
+ },
+ "CA-33": {
+  "ddhq_id": 294763,
+  "district": "33",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-33-general-election"
+ },
+ "CA-34": {
+  "ddhq_id": 294764,
+  "district": "34",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-34-general-election"
+ },
+ "CA-35": {
+  "ddhq_id": 294765,
+  "district": "35",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-35-general-election"
+ },
+ "CA-36": {
+  "ddhq_id": 294766,
+  "district": "36",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-36-general-election"
+ },
+ "CA-37": {
+  "ddhq_id": 294767,
+  "district": "37",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-37-general-election"
+ },
+ "CA-38": {
+  "ddhq_id": 294768,
+  "district": "38",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-38-general-election"
+ },
+ "CA-39": {
+  "ddhq_id": 294769,
+  "district": "39",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-39-general-election"
+ },
+ "CA-40": {
+  "ddhq_id": 294770,
+  "district": "40",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-40-general-election"
+ },
+ "CA-41": {
+  "ddhq_id": 294771,
+  "district": "41",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-41-general-election"
+ },
+ "CA-42": {
+  "ddhq_id": 294772,
+  "district": "42",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-42-general-election"
+ },
+ "CA-43": {
+  "ddhq_id": 294773,
+  "district": "43",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-43-general-election"
+ },
+ "CA-44": {
+  "ddhq_id": 294774,
+  "district": "44",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-44-general-election"
+ },
+ "CA-45": {
+  "ddhq_id": 294775,
+  "district": "45",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-45-general-election"
+ },
+ "CA-46": {
+  "ddhq_id": 294776,
+  "district": "46",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-46-general-election"
+ },
+ "CA-47": {
+  "ddhq_id": 294777,
+  "district": "47",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-47-general-election"
+ },
+ "CA-48": {
+  "ddhq_id": 294778,
+  "district": "48",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-48-general-election"
+ },
+ "CA-49": {
+  "ddhq_id": 294779,
+  "district": "49",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-49-general-election"
+ },
+ "CA-50": {
+  "ddhq_id": 294780,
+  "district": "50",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-50-general-election"
+ },
+ "CA-51": {
+  "ddhq_id": 294781,
+  "district": "51",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-51-general-election"
+ },
+ "CA-52": {
+  "ddhq_id": 294782,
+  "district": "52",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/california-us-house-52-general-election"
+ },
+ "CA-GOV": {
+  "ddhq_id": 702340,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/california-governor-general-election"
+ },
+ "CO-01": {
+  "ddhq_id": 294783,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/colorado-us-house-1-general-election"
+ },
+ "CO-02": {
+  "ddhq_id": 294784,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/colorado-us-house-2-general-election"
+ },
+ "CO-03": {
+  "ddhq_id": 294785,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/colorado-us-house-3-general-election"
+ },
+ "CO-04": {
+  "ddhq_id": 294786,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/colorado-us-house-4-general-election"
+ },
+ "CO-05": {
+  "ddhq_id": 294787,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/colorado-us-house-5-general-election"
+ },
+ "CO-06": {
+  "ddhq_id": 294788,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/colorado-us-house-6-general-election"
+ },
+ "CO-07": {
+  "ddhq_id": 294789,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/colorado-us-house-7-general-election"
+ },
+ "CO-08": {
+  "ddhq_id": 294790,
+  "district": "8",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/colorado-us-house-8-general-election"
+ },
+ "CO-GOV": {
+  "ddhq_id": 716861,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/colorado-governor-general-election"
+ },
+ "CO-SEN": {
+  "ddhq_id": 294674,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/colorado-us-senate-general-election"
+ },
+ "CT-01": {
+  "ddhq_id": 294791,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/connecticut-us-house-1-general-election"
+ },
+ "CT-02": {
+  "ddhq_id": 294792,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/connecticut-us-house-2-general-election"
+ },
+ "CT-03": {
+  "ddhq_id": 294793,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/connecticut-us-house-3-general-election"
+ },
+ "CT-04": {
+  "ddhq_id": 294794,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/connecticut-us-house-4-general-election"
+ },
+ "CT-05": {
+  "ddhq_id": 294795,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/connecticut-us-house-5-general-election"
+ },
+ "CT-GOV": {
+  "ddhq_id": 716862,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/connecticut-governor-general-election"
+ },
+ "DE-01": {
+  "ddhq_id": 294796,
+  "district": "At-Large",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/delaware-us-house-at-large-general-election"
+ },
+ "DE-SEN": {
+  "ddhq_id": 294675,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/delaware-us-senate-general-election"
+ },
+ "FL-01": {
+  "ddhq_id": 294797,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-1-general-election"
+ },
+ "FL-02": {
+  "ddhq_id": 294798,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-2-general-election"
+ },
+ "FL-03": {
+  "ddhq_id": 294799,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-3-general-election"
+ },
+ "FL-04": {
+  "ddhq_id": 294800,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-4-general-election"
+ },
+ "FL-05": {
+  "ddhq_id": 294801,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-5-general-election"
+ },
+ "FL-06": {
+  "ddhq_id": 294802,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-6-general-election"
+ },
+ "FL-07": {
+  "ddhq_id": 294803,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-7-general-election"
+ },
+ "FL-08": {
+  "ddhq_id": 294804,
+  "district": "8",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-8-general-election"
+ },
+ "FL-09": {
+  "ddhq_id": 294805,
+  "district": "9",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-9-general-election"
+ },
+ "FL-10": {
+  "ddhq_id": 294806,
+  "district": "10",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-10-general-election"
+ },
+ "FL-11": {
+  "ddhq_id": 294807,
+  "district": "11",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-11-general-election"
+ },
+ "FL-12": {
+  "ddhq_id": 294808,
+  "district": "12",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-12-general-election"
+ },
+ "FL-13": {
+  "ddhq_id": 294809,
+  "district": "13",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-13-general-election"
+ },
+ "FL-14": {
+  "ddhq_id": 294810,
+  "district": "14",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-14-general-election"
+ },
+ "FL-15": {
+  "ddhq_id": 294811,
+  "district": "15",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-15-general-election"
+ },
+ "FL-16": {
+  "ddhq_id": 294812,
+  "district": "16",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-16-general-election"
+ },
+ "FL-17": {
+  "ddhq_id": 294813,
+  "district": "17",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-17-general-election"
+ },
+ "FL-18": {
+  "ddhq_id": 294814,
+  "district": "18",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-18-general-election"
+ },
+ "FL-19": {
+  "ddhq_id": 294815,
+  "district": "19",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-19-general-election"
+ },
+ "FL-20": {
+  "ddhq_id": 294816,
+  "district": "20",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-20-general-election"
+ },
+ "FL-21": {
+  "ddhq_id": 294817,
+  "district": "21",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-21-general-election"
+ },
+ "FL-22": {
+  "ddhq_id": 294818,
+  "district": "22",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-22-general-election"
+ },
+ "FL-23": {
+  "ddhq_id": 294819,
+  "district": "23",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-23-general-election"
+ },
+ "FL-24": {
+  "ddhq_id": 294820,
+  "district": "24",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-24-general-election"
+ },
+ "FL-25": {
+  "ddhq_id": 294821,
+  "district": "25",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-25-general-election"
+ },
+ "FL-26": {
+  "ddhq_id": 294822,
+  "district": "26",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-26-general-election"
+ },
+ "FL-27": {
+  "ddhq_id": 294823,
+  "district": "27",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-27-general-election"
+ },
+ "FL-28": {
+  "ddhq_id": 294824,
+  "district": "28",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/florida-us-house-28-general-election"
+ },
+ "FL-GOV": {
+  "ddhq_id": 716891,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/florida-governor-general-election"
+ },
+ "FL-SEN": {
+  "ddhq_id": 294676,
+  "district": null,
+  "election_type": "Special Election General",
+  "office": "US Senate",
+  "slug": "2026-11-03/florida-us-senate-special-election-general"
+ },
+ "GA-01": {
+  "ddhq_id": 294825,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/georgia-us-house-1-general-election"
+ },
+ "GA-02": {
+  "ddhq_id": 294826,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/georgia-us-house-2-general-election"
+ },
+ "GA-03": {
+  "ddhq_id": 294827,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/georgia-us-house-3-general-election"
+ },
+ "GA-04": {
+  "ddhq_id": 294828,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/georgia-us-house-4-general-election"
+ },
+ "GA-05": {
+  "ddhq_id": 294829,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/georgia-us-house-5-general-election"
+ },
+ "GA-06": {
+  "ddhq_id": 294830,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/georgia-us-house-6-general-election"
+ },
+ "GA-07": {
+  "ddhq_id": 294831,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/georgia-us-house-7-general-election"
+ },
+ "GA-08": {
+  "ddhq_id": 294832,
+  "district": "8",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/georgia-us-house-8-general-election"
+ },
+ "GA-09": {
+  "ddhq_id": 294833,
+  "district": "9",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/georgia-us-house-9-general-election"
+ },
+ "GA-10": {
+  "ddhq_id": 294834,
+  "district": "10",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/georgia-us-house-10-general-election"
+ },
+ "GA-11": {
+  "ddhq_id": 294835,
+  "district": "11",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/georgia-us-house-11-general-election"
+ },
+ "GA-12": {
+  "ddhq_id": 294836,
+  "district": "12",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/georgia-us-house-12-general-election"
+ },
+ "GA-13": {
+  "ddhq_id": 294837,
+  "district": "13",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/georgia-us-house-13-general-election"
+ },
+ "GA-14": {
+  "ddhq_id": 294838,
+  "district": "14",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/georgia-us-house-14-general-election"
+ },
+ "GA-GOV": {
+  "ddhq_id": 697741,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/georgia-governor-general-election"
+ },
+ "GA-SEN": {
+  "ddhq_id": 294677,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/georgia-us-senate-general-election"
+ },
+ "HI-01": {
+  "ddhq_id": 294839,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/hawaii-us-house-1-general-election"
+ },
+ "HI-02": {
+  "ddhq_id": 294840,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/hawaii-us-house-2-general-election"
+ },
+ "HI-GOV": {
+  "ddhq_id": 716892,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/hawaii-governor-general-election"
+ },
+ "IA-01": {
+  "ddhq_id": 294869,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/iowa-us-house-1-general-election"
+ },
+ "IA-02": {
+  "ddhq_id": 294870,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/iowa-us-house-2-general-election"
+ },
+ "IA-03": {
+  "ddhq_id": 294871,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/iowa-us-house-3-general-election"
+ },
+ "IA-04": {
+  "ddhq_id": 294872,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/iowa-us-house-4-general-election"
+ },
+ "IA-GOV": {
+  "ddhq_id": 701582,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/iowa-governor-general-election"
+ },
+ "IA-SEN": {
+  "ddhq_id": 294680,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/iowa-us-senate-general-election"
+ },
+ "ID-01": {
+  "ddhq_id": 294841,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/idaho-us-house-1-general-election"
+ },
+ "ID-02": {
+  "ddhq_id": 294842,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/idaho-us-house-2-general-election"
+ },
+ "ID-GOV": {
+  "ddhq_id": 698690,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/idaho-governor-general-election"
+ },
+ "ID-SEN": {
+  "ddhq_id": 294678,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/idaho-us-senate-general-election"
+ },
+ "IL-01": {
+  "ddhq_id": 294843,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/illinois-us-house-1-general-election"
+ },
+ "IL-02": {
+  "ddhq_id": 294844,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/illinois-us-house-2-general-election"
+ },
+ "IL-03": {
+  "ddhq_id": 294845,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/illinois-us-house-3-general-election"
+ },
+ "IL-04": {
+  "ddhq_id": 294846,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/illinois-us-house-4-general-election"
+ },
+ "IL-05": {
+  "ddhq_id": 294847,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/illinois-us-house-5-general-election"
+ },
+ "IL-06": {
+  "ddhq_id": 294848,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/illinois-us-house-6-general-election"
+ },
+ "IL-07": {
+  "ddhq_id": 294849,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/illinois-us-house-7-general-election"
+ },
+ "IL-08": {
+  "ddhq_id": 294850,
+  "district": "8",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/illinois-us-house-8-general-election"
+ },
+ "IL-09": {
+  "ddhq_id": 294851,
+  "district": "9",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/illinois-us-house-9-general-election"
+ },
+ "IL-10": {
+  "ddhq_id": 294852,
+  "district": "10",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/illinois-us-house-10-general-election"
+ },
+ "IL-11": {
+  "ddhq_id": 294853,
+  "district": "11",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/illinois-us-house-11-general-election"
+ },
+ "IL-12": {
+  "ddhq_id": 294854,
+  "district": "12",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/illinois-us-house-12-general-election"
+ },
+ "IL-13": {
+  "ddhq_id": 294855,
+  "district": "13",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/illinois-us-house-13-general-election"
+ },
+ "IL-14": {
+  "ddhq_id": 294856,
+  "district": "14",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/illinois-us-house-14-general-election"
+ },
+ "IL-15": {
+  "ddhq_id": 294857,
+  "district": "15",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/illinois-us-house-15-general-election"
+ },
+ "IL-16": {
+  "ddhq_id": 294858,
+  "district": "16",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/illinois-us-house-16-general-election"
+ },
+ "IL-17": {
+  "ddhq_id": 294859,
+  "district": "17",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/illinois-us-house-17-general-election"
+ },
+ "IL-GOV": {
+  "ddhq_id": 608024,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/illinois-governor-general-election"
+ },
+ "IL-SEN": {
+  "ddhq_id": 294679,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/illinois-us-senate-general-election"
+ },
+ "IN-01": {
+  "ddhq_id": 294860,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/indiana-us-house-1-general-election"
+ },
+ "IN-02": {
+  "ddhq_id": 294861,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/indiana-us-house-2-general-election"
+ },
+ "IN-03": {
+  "ddhq_id": 294862,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/indiana-us-house-3-general-election"
+ },
+ "IN-04": {
+  "ddhq_id": 294863,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/indiana-us-house-4-general-election"
+ },
+ "IN-05": {
+  "ddhq_id": 294864,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/indiana-us-house-5-general-election"
+ },
+ "IN-06": {
+  "ddhq_id": 294865,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/indiana-us-house-6-general-election"
+ },
+ "IN-07": {
+  "ddhq_id": 294866,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/indiana-us-house-7-general-election"
+ },
+ "IN-08": {
+  "ddhq_id": 294867,
+  "district": "8",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/indiana-us-house-8-general-election"
+ },
+ "IN-09": {
+  "ddhq_id": 294868,
+  "district": "9",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/indiana-us-house-9-general-election"
+ },
+ "KS-01": {
+  "ddhq_id": 294873,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/kansas-us-house-1-general-election"
+ },
+ "KS-02": {
+  "ddhq_id": 294874,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/kansas-us-house-2-general-election"
+ },
+ "KS-03": {
+  "ddhq_id": 294875,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/kansas-us-house-3-general-election"
+ },
+ "KS-04": {
+  "ddhq_id": 294876,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/kansas-us-house-4-general-election"
+ },
+ "KS-GOV": {
+  "ddhq_id": 716893,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/kansas-governor-general-election"
+ },
+ "KS-SEN": {
+  "ddhq_id": 294681,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/kansas-us-senate-general-election"
+ },
+ "KY-01": {
+  "ddhq_id": 294877,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/kentucky-us-house-1-general-election"
+ },
+ "KY-02": {
+  "ddhq_id": 294878,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/kentucky-us-house-2-general-election"
+ },
+ "KY-03": {
+  "ddhq_id": 294879,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/kentucky-us-house-3-general-election"
+ },
+ "KY-04": {
+  "ddhq_id": 294880,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/kentucky-us-house-4-general-election"
+ },
+ "KY-05": {
+  "ddhq_id": 294881,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/kentucky-us-house-5-general-election"
+ },
+ "KY-06": {
+  "ddhq_id": 294882,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/kentucky-us-house-6-general-election"
+ },
+ "KY-SEN": {
+  "ddhq_id": 294682,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/kentucky-us-senate-general-election"
+ },
+ "LA-01": {
+  "ddhq_id": 294883,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/louisiana-us-house-1-general-election"
+ },
+ "LA-02": {
+  "ddhq_id": 294884,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/louisiana-us-house-2-general-election"
+ },
+ "LA-03": {
+  "ddhq_id": 294885,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/louisiana-us-house-3-general-election"
+ },
+ "LA-04": {
+  "ddhq_id": 294886,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/louisiana-us-house-4-general-election"
+ },
+ "LA-05": {
+  "ddhq_id": 294887,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/louisiana-us-house-5-general-election"
+ },
+ "LA-06": {
+  "ddhq_id": 294888,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/louisiana-us-house-6-general-election"
+ },
+ "LA-SEN": {
+  "ddhq_id": 294683,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/louisiana-us-senate-general-election"
+ },
+ "MA-01": {
+  "ddhq_id": 294899,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/massachusetts-us-house-1-general-election"
+ },
+ "MA-02": {
+  "ddhq_id": 294900,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/massachusetts-us-house-2-general-election"
+ },
+ "MA-03": {
+  "ddhq_id": 294901,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/massachusetts-us-house-3-general-election"
+ },
+ "MA-04": {
+  "ddhq_id": 294902,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/massachusetts-us-house-4-general-election"
+ },
+ "MA-05": {
+  "ddhq_id": 294903,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/massachusetts-us-house-5-general-election"
+ },
+ "MA-06": {
+  "ddhq_id": 294904,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/massachusetts-us-house-6-general-election"
+ },
+ "MA-07": {
+  "ddhq_id": 294905,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/massachusetts-us-house-7-general-election"
+ },
+ "MA-08": {
+  "ddhq_id": 294906,
+  "district": "8",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/massachusetts-us-house-8-general-election"
+ },
+ "MA-09": {
+  "ddhq_id": 294907,
+  "district": "9",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/massachusetts-us-house-9-general-election"
+ },
+ "MA-GOV": {
+  "ddhq_id": 716924,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/massachusetts-governor-general-election"
+ },
+ "MA-SEN": {
+  "ddhq_id": 294685,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/massachusetts-us-senate-general-election"
+ },
+ "MD-01": {
+  "ddhq_id": 294891,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/maryland-us-house-1-general-election"
+ },
+ "MD-02": {
+  "ddhq_id": 294892,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/maryland-us-house-2-general-election"
+ },
+ "MD-03": {
+  "ddhq_id": 294893,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/maryland-us-house-3-general-election"
+ },
+ "MD-04": {
+  "ddhq_id": 294894,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/maryland-us-house-4-general-election"
+ },
+ "MD-05": {
+  "ddhq_id": 294895,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/maryland-us-house-5-general-election"
+ },
+ "MD-06": {
+  "ddhq_id": 294896,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/maryland-us-house-6-general-election"
+ },
+ "MD-07": {
+  "ddhq_id": 294897,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/maryland-us-house-7-general-election"
+ },
+ "MD-08": {
+  "ddhq_id": 294898,
+  "district": "8",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/maryland-us-house-8-general-election"
+ },
+ "MD-GOV": {
+  "ddhq_id": 716925,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/maryland-governor-general-election"
+ },
+ "ME-01": {
+  "ddhq_id": 294889,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/maine-us-house-1-general-election"
+ },
+ "ME-02": {
+  "ddhq_id": 294890,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/maine-us-house-2-general-election"
+ },
+ "ME-GOV": {
+  "ddhq_id": 704318,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/maine-governor-general-election"
+ },
+ "ME-SEN": {
+  "ddhq_id": 294684,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/maine-us-senate-general-election"
+ },
+ "MI-01": {
+  "ddhq_id": 294908,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/michigan-us-house-1-general-election"
+ },
+ "MI-02": {
+  "ddhq_id": 294909,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/michigan-us-house-2-general-election"
+ },
+ "MI-03": {
+  "ddhq_id": 294910,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/michigan-us-house-3-general-election"
+ },
+ "MI-04": {
+  "ddhq_id": 294911,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/michigan-us-house-4-general-election"
+ },
+ "MI-05": {
+  "ddhq_id": 294912,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/michigan-us-house-5-general-election"
+ },
+ "MI-06": {
+  "ddhq_id": 294913,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/michigan-us-house-6-general-election"
+ },
+ "MI-07": {
+  "ddhq_id": 294914,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/michigan-us-house-7-general-election"
+ },
+ "MI-08": {
+  "ddhq_id": 294915,
+  "district": "8",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/michigan-us-house-8-general-election"
+ },
+ "MI-09": {
+  "ddhq_id": 294916,
+  "district": "9",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/michigan-us-house-9-general-election"
+ },
+ "MI-10": {
+  "ddhq_id": 294917,
+  "district": "10",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/michigan-us-house-10-general-election"
+ },
+ "MI-11": {
+  "ddhq_id": 294918,
+  "district": "11",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/michigan-us-house-11-general-election"
+ },
+ "MI-12": {
+  "ddhq_id": 294919,
+  "district": "12",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/michigan-us-house-12-general-election"
+ },
+ "MI-13": {
+  "ddhq_id": 294920,
+  "district": "13",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/michigan-us-house-13-general-election"
+ },
+ "MI-GOV": {
+  "ddhq_id": 716926,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/michigan-governor-general-election"
+ },
+ "MI-SEN": {
+  "ddhq_id": 294686,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/michigan-us-senate-general-election"
+ },
+ "MN-01": {
+  "ddhq_id": 294921,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/minnesota-us-house-1-general-election"
+ },
+ "MN-02": {
+  "ddhq_id": 294922,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/minnesota-us-house-2-general-election"
+ },
+ "MN-03": {
+  "ddhq_id": 294923,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/minnesota-us-house-3-general-election"
+ },
+ "MN-04": {
+  "ddhq_id": 294924,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/minnesota-us-house-4-general-election"
+ },
+ "MN-05": {
+  "ddhq_id": 294925,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/minnesota-us-house-5-general-election"
+ },
+ "MN-06": {
+  "ddhq_id": 294926,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/minnesota-us-house-6-general-election"
+ },
+ "MN-07": {
+  "ddhq_id": 294927,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/minnesota-us-house-7-general-election"
+ },
+ "MN-08": {
+  "ddhq_id": 294928,
+  "district": "8",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/minnesota-us-house-8-general-election"
+ },
+ "MN-GOV": {
+  "ddhq_id": 716957,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/minnesota-governor-general-election"
+ },
+ "MN-SEN": {
+  "ddhq_id": 294687,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/minnesota-us-senate-general-election"
+ },
+ "MO-01": {
+  "ddhq_id": 294933,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/missouri-us-house-1-general-election"
+ },
+ "MO-02": {
+  "ddhq_id": 294934,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/missouri-us-house-2-general-election"
+ },
+ "MO-03": {
+  "ddhq_id": 294935,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/missouri-us-house-3-general-election"
+ },
+ "MO-04": {
+  "ddhq_id": 294936,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/missouri-us-house-4-general-election"
+ },
+ "MO-05": {
+  "ddhq_id": 294937,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/missouri-us-house-5-general-election"
+ },
+ "MO-06": {
+  "ddhq_id": 294938,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/missouri-us-house-6-general-election"
+ },
+ "MO-07": {
+  "ddhq_id": 294939,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/missouri-us-house-7-general-election"
+ },
+ "MO-08": {
+  "ddhq_id": 294940,
+  "district": "8",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/missouri-us-house-8-general-election"
+ },
+ "MS-01": {
+  "ddhq_id": 294929,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/mississippi-us-house-1-general-election"
+ },
+ "MS-02": {
+  "ddhq_id": 294930,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/mississippi-us-house-2-general-election"
+ },
+ "MS-03": {
+  "ddhq_id": 294931,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/mississippi-us-house-3-general-election"
+ },
+ "MS-04": {
+  "ddhq_id": 294932,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/mississippi-us-house-4-general-election"
+ },
+ "MS-SEN": {
+  "ddhq_id": 294688,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/mississippi-us-senate-general-election"
+ },
+ "MT-01": {
+  "ddhq_id": 294941,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/montana-us-house-1-general-election"
+ },
+ "MT-02": {
+  "ddhq_id": 294942,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/montana-us-house-2-general-election"
+ },
+ "MT-SEN": {
+  "ddhq_id": 294689,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/montana-us-senate-general-election"
+ },
+ "NC-01": {
+  "ddhq_id": 294993,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/north-carolina-us-house-1-general-election"
+ },
+ "NC-02": {
+  "ddhq_id": 294994,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/north-carolina-us-house-2-general-election"
+ },
+ "NC-03": {
+  "ddhq_id": 294995,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/north-carolina-us-house-3-general-election"
+ },
+ "NC-04": {
+  "ddhq_id": 294996,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/north-carolina-us-house-4-general-election"
+ },
+ "NC-05": {
+  "ddhq_id": 294997,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/north-carolina-us-house-5-general-election"
+ },
+ "NC-06": {
+  "ddhq_id": 294998,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/north-carolina-us-house-6-general-election"
+ },
+ "NC-07": {
+  "ddhq_id": 294999,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/north-carolina-us-house-7-general-election"
+ },
+ "NC-08": {
+  "ddhq_id": 295000,
+  "district": "8",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/north-carolina-us-house-8-general-election"
+ },
+ "NC-09": {
+  "ddhq_id": 295001,
+  "district": "9",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/north-carolina-us-house-9-general-election"
+ },
+ "NC-10": {
+  "ddhq_id": 295002,
+  "district": "10",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/north-carolina-us-house-10-general-election"
+ },
+ "NC-11": {
+  "ddhq_id": 295003,
+  "district": "11",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/north-carolina-us-house-11-general-election"
+ },
+ "NC-12": {
+  "ddhq_id": 295004,
+  "district": "12",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/north-carolina-us-house-12-general-election"
+ },
+ "NC-13": {
+  "ddhq_id": 295005,
+  "district": "13",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/north-carolina-us-house-13-general-election"
+ },
+ "NC-14": {
+  "ddhq_id": 295006,
+  "district": "14",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/north-carolina-us-house-14-general-election"
+ },
+ "NC-SEN": {
+  "ddhq_id": 294694,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/north-carolina-us-senate-general-election"
+ },
+ "ND-01": {
+  "ddhq_id": 295007,
+  "district": "At-Large",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/north-dakota-us-house-at-large-general-election"
+ },
+ "NE-01": {
+  "ddhq_id": 294943,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/nebraska-us-house-1-general-election"
+ },
+ "NE-02": {
+  "ddhq_id": 294944,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/nebraska-us-house-2-general-election"
+ },
+ "NE-03": {
+  "ddhq_id": 294945,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/nebraska-us-house-3-general-election"
+ },
+ "NE-GOV": {
+  "ddhq_id": 694979,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/nebraska-governor-general-election"
+ },
+ "NE-SEN": {
+  "ddhq_id": 294690,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/nebraska-us-senate-general-election"
+ },
+ "NH-01": {
+  "ddhq_id": 294950,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-hampshire-us-house-1-general-election"
+ },
+ "NH-02": {
+  "ddhq_id": 294951,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-hampshire-us-house-2-general-election"
+ },
+ "NH-GOV": {
+  "ddhq_id": 716990,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/new-hampshire-governor-general-election"
+ },
+ "NH-SEN": {
+  "ddhq_id": 294691,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/new-hampshire-us-senate-general-election"
+ },
+ "NJ-01": {
+  "ddhq_id": 294952,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-jersey-us-house-1-general-election"
+ },
+ "NJ-02": {
+  "ddhq_id": 294953,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-jersey-us-house-2-general-election"
+ },
+ "NJ-03": {
+  "ddhq_id": 294954,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-jersey-us-house-3-general-election"
+ },
+ "NJ-04": {
+  "ddhq_id": 294955,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-jersey-us-house-4-general-election"
+ },
+ "NJ-05": {
+  "ddhq_id": 294956,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-jersey-us-house-5-general-election"
+ },
+ "NJ-06": {
+  "ddhq_id": 294957,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-jersey-us-house-6-general-election"
+ },
+ "NJ-07": {
+  "ddhq_id": 294958,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-jersey-us-house-7-general-election"
+ },
+ "NJ-08": {
+  "ddhq_id": 294959,
+  "district": "8",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-jersey-us-house-8-general-election"
+ },
+ "NJ-09": {
+  "ddhq_id": 294960,
+  "district": "9",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-jersey-us-house-9-general-election"
+ },
+ "NJ-10": {
+  "ddhq_id": 294961,
+  "district": "10",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-jersey-us-house-10-general-election"
+ },
+ "NJ-11": {
+  "ddhq_id": 294962,
+  "district": "11",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-jersey-us-house-11-general-election"
+ },
+ "NJ-12": {
+  "ddhq_id": 294963,
+  "district": "12",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-jersey-us-house-12-general-election"
+ },
+ "NJ-SEN": {
+  "ddhq_id": 294692,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/new-jersey-us-senate-general-election"
+ },
+ "NM-01": {
+  "ddhq_id": 294964,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-mexico-us-house-1-general-election"
+ },
+ "NM-02": {
+  "ddhq_id": 294965,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-mexico-us-house-2-general-election"
+ },
+ "NM-03": {
+  "ddhq_id": 294966,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-mexico-us-house-3-general-election"
+ },
+ "NM-GOV": {
+  "ddhq_id": 701680,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/new-mexico-governor-general-election"
+ },
+ "NM-SEN": {
+  "ddhq_id": 294693,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/new-mexico-us-senate-general-election"
+ },
+ "NV-01": {
+  "ddhq_id": 294946,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/nevada-us-house-1-general-election"
+ },
+ "NV-02": {
+  "ddhq_id": 294947,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/nevada-us-house-2-general-election"
+ },
+ "NV-03": {
+  "ddhq_id": 294948,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/nevada-us-house-3-general-election"
+ },
+ "NV-04": {
+  "ddhq_id": 294949,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/nevada-us-house-4-general-election"
+ },
+ "NV-GOV": {
+  "ddhq_id": 702307,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/nevada-governor-general-election"
+ },
+ "NY-01": {
+  "ddhq_id": 294967,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-1-general-election"
+ },
+ "NY-02": {
+  "ddhq_id": 294968,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-2-general-election"
+ },
+ "NY-03": {
+  "ddhq_id": 294969,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-3-general-election"
+ },
+ "NY-04": {
+  "ddhq_id": 294970,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-4-general-election"
+ },
+ "NY-05": {
+  "ddhq_id": 294971,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-5-general-election"
+ },
+ "NY-06": {
+  "ddhq_id": 294972,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-6-general-election"
+ },
+ "NY-07": {
+  "ddhq_id": 294973,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-7-general-election"
+ },
+ "NY-08": {
+  "ddhq_id": 294974,
+  "district": "8",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-8-general-election"
+ },
+ "NY-09": {
+  "ddhq_id": 294975,
+  "district": "9",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-9-general-election"
+ },
+ "NY-10": {
+  "ddhq_id": 294976,
+  "district": "10",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-10-general-election"
+ },
+ "NY-11": {
+  "ddhq_id": 294977,
+  "district": "11",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-11-general-election"
+ },
+ "NY-12": {
+  "ddhq_id": 294978,
+  "district": "12",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-12-general-election"
+ },
+ "NY-13": {
+  "ddhq_id": 294979,
+  "district": "13",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-13-general-election"
+ },
+ "NY-14": {
+  "ddhq_id": 294980,
+  "district": "14",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-14-general-election"
+ },
+ "NY-15": {
+  "ddhq_id": 294981,
+  "district": "15",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-15-general-election"
+ },
+ "NY-16": {
+  "ddhq_id": 294982,
+  "district": "16",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-16-general-election"
+ },
+ "NY-17": {
+  "ddhq_id": 294983,
+  "district": "17",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-17-general-election"
+ },
+ "NY-18": {
+  "ddhq_id": 294984,
+  "district": "18",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-18-general-election"
+ },
+ "NY-19": {
+  "ddhq_id": 294985,
+  "district": "19",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-19-general-election"
+ },
+ "NY-20": {
+  "ddhq_id": 294986,
+  "district": "20",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-20-general-election"
+ },
+ "NY-21": {
+  "ddhq_id": 294987,
+  "district": "21",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-21-general-election"
+ },
+ "NY-22": {
+  "ddhq_id": 294988,
+  "district": "22",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-22-general-election"
+ },
+ "NY-23": {
+  "ddhq_id": 294989,
+  "district": "23",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-23-general-election"
+ },
+ "NY-24": {
+  "ddhq_id": 294990,
+  "district": "24",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-24-general-election"
+ },
+ "NY-25": {
+  "ddhq_id": 294991,
+  "district": "25",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-25-general-election"
+ },
+ "NY-26": {
+  "ddhq_id": 294992,
+  "district": "26",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/new-york-us-house-26-general-election"
+ },
+ "NY-GOV": {
+  "ddhq_id": 716991,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/new-york-governor-general-election"
+ },
+ "OH-01": {
+  "ddhq_id": 295008,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/ohio-us-house-1-general-election"
+ },
+ "OH-02": {
+  "ddhq_id": 295009,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/ohio-us-house-2-general-election"
+ },
+ "OH-03": {
+  "ddhq_id": 295010,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/ohio-us-house-3-general-election"
+ },
+ "OH-04": {
+  "ddhq_id": 295011,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/ohio-us-house-4-general-election"
+ },
+ "OH-05": {
+  "ddhq_id": 295012,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/ohio-us-house-5-general-election"
+ },
+ "OH-06": {
+  "ddhq_id": 295013,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/ohio-us-house-6-general-election"
+ },
+ "OH-07": {
+  "ddhq_id": 295014,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/ohio-us-house-7-general-election"
+ },
+ "OH-08": {
+  "ddhq_id": 295015,
+  "district": "8",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/ohio-us-house-8-general-election"
+ },
+ "OH-09": {
+  "ddhq_id": 295016,
+  "district": "9",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/ohio-us-house-9-general-election"
+ },
+ "OH-10": {
+  "ddhq_id": 295017,
+  "district": "10",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/ohio-us-house-10-general-election"
+ },
+ "OH-11": {
+  "ddhq_id": 295018,
+  "district": "11",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/ohio-us-house-11-general-election"
+ },
+ "OH-12": {
+  "ddhq_id": 295019,
+  "district": "12",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/ohio-us-house-12-general-election"
+ },
+ "OH-13": {
+  "ddhq_id": 295020,
+  "district": "13",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/ohio-us-house-13-general-election"
+ },
+ "OH-14": {
+  "ddhq_id": 295021,
+  "district": "14",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/ohio-us-house-14-general-election"
+ },
+ "OH-15": {
+  "ddhq_id": 295022,
+  "district": "15",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/ohio-us-house-15-general-election"
+ },
+ "OH-GOV": {
+  "ddhq_id": 681152,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/ohio-governor-general-election"
+ },
+ "OH-SEN": {
+  "ddhq_id": 294695,
+  "district": null,
+  "election_type": "Special Election General",
+  "office": "US Senate",
+  "slug": "2026-11-03/ohio-us-senate-special-election-general"
+ },
+ "OK-01": {
+  "ddhq_id": 295023,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/oklahoma-us-house-1-general-election"
+ },
+ "OK-02": {
+  "ddhq_id": 295024,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/oklahoma-us-house-2-general-election"
+ },
+ "OK-03": {
+  "ddhq_id": 295025,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/oklahoma-us-house-3-general-election"
+ },
+ "OK-04": {
+  "ddhq_id": 295026,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/oklahoma-us-house-4-general-election"
+ },
+ "OK-05": {
+  "ddhq_id": 295027,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/oklahoma-us-house-5-general-election"
+ },
+ "OK-GOV": {
+  "ddhq_id": 704021,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/oklahoma-governor-general-election"
+ },
+ "OK-SEN": {
+  "ddhq_id": 294696,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/oklahoma-us-senate-general-election"
+ },
+ "OR-01": {
+  "ddhq_id": 295028,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/oregon-us-house-1-general-election"
+ },
+ "OR-02": {
+  "ddhq_id": 295029,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/oregon-us-house-2-general-election"
+ },
+ "OR-03": {
+  "ddhq_id": 295030,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/oregon-us-house-3-general-election"
+ },
+ "OR-04": {
+  "ddhq_id": 295031,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/oregon-us-house-4-general-election"
+ },
+ "OR-05": {
+  "ddhq_id": 295032,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/oregon-us-house-5-general-election"
+ },
+ "OR-06": {
+  "ddhq_id": 295033,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/oregon-us-house-6-general-election"
+ },
+ "OR-GOV": {
+  "ddhq_id": 700028,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/oregon-governor-general-election"
+ },
+ "OR-SEN": {
+  "ddhq_id": 294697,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/oregon-us-senate-general-election"
+ },
+ "PA-01": {
+  "ddhq_id": 295034,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/pennsylvania-us-house-1-general-election"
+ },
+ "PA-02": {
+  "ddhq_id": 295035,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/pennsylvania-us-house-2-general-election"
+ },
+ "PA-03": {
+  "ddhq_id": 295036,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/pennsylvania-us-house-3-general-election"
+ },
+ "PA-04": {
+  "ddhq_id": 295037,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/pennsylvania-us-house-4-general-election"
+ },
+ "PA-05": {
+  "ddhq_id": 295038,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/pennsylvania-us-house-5-general-election"
+ },
+ "PA-06": {
+  "ddhq_id": 295039,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/pennsylvania-us-house-6-general-election"
+ },
+ "PA-07": {
+  "ddhq_id": 295040,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/pennsylvania-us-house-7-general-election"
+ },
+ "PA-08": {
+  "ddhq_id": 295041,
+  "district": "8",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/pennsylvania-us-house-8-general-election"
+ },
+ "PA-09": {
+  "ddhq_id": 295042,
+  "district": "9",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/pennsylvania-us-house-9-general-election"
+ },
+ "PA-10": {
+  "ddhq_id": 295043,
+  "district": "10",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/pennsylvania-us-house-10-general-election"
+ },
+ "PA-11": {
+  "ddhq_id": 295044,
+  "district": "11",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/pennsylvania-us-house-11-general-election"
+ },
+ "PA-12": {
+  "ddhq_id": 295045,
+  "district": "12",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/pennsylvania-us-house-12-general-election"
+ },
+ "PA-13": {
+  "ddhq_id": 295046,
+  "district": "13",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/pennsylvania-us-house-13-general-election"
+ },
+ "PA-14": {
+  "ddhq_id": 295047,
+  "district": "14",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/pennsylvania-us-house-14-general-election"
+ },
+ "PA-15": {
+  "ddhq_id": 295048,
+  "district": "15",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/pennsylvania-us-house-15-general-election"
+ },
+ "PA-16": {
+  "ddhq_id": 295049,
+  "district": "16",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/pennsylvania-us-house-16-general-election"
+ },
+ "PA-17": {
+  "ddhq_id": 295050,
+  "district": "17",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/pennsylvania-us-house-17-general-election"
+ },
+ "PA-GOV": {
+  "ddhq_id": 700061,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/pennsylvania-governor-general-election"
+ },
+ "RI-01": {
+  "ddhq_id": 295051,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/rhode-island-us-house-1-general-election"
+ },
+ "RI-02": {
+  "ddhq_id": 295052,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/rhode-island-us-house-2-general-election"
+ },
+ "RI-GOV": {
+  "ddhq_id": 716992,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/rhode-island-governor-general-election"
+ },
+ "RI-SEN": {
+  "ddhq_id": 294698,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/rhode-island-us-senate-general-election"
+ },
+ "SC-01": {
+  "ddhq_id": 295053,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/south-carolina-us-house-1-general-election"
+ },
+ "SC-02": {
+  "ddhq_id": 295054,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/south-carolina-us-house-2-general-election"
+ },
+ "SC-03": {
+  "ddhq_id": 295055,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/south-carolina-us-house-3-general-election"
+ },
+ "SC-04": {
+  "ddhq_id": 295056,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/south-carolina-us-house-4-general-election"
+ },
+ "SC-05": {
+  "ddhq_id": 295057,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/south-carolina-us-house-5-general-election"
+ },
+ "SC-06": {
+  "ddhq_id": 295058,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/south-carolina-us-house-6-general-election"
+ },
+ "SC-07": {
+  "ddhq_id": 295059,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/south-carolina-us-house-7-general-election"
+ },
+ "SC-GOV": {
+  "ddhq_id": 702284,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/south-carolina-governor-general-election"
+ },
+ "SC-SEN": {
+  "ddhq_id": 294699,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/south-carolina-us-senate-general-election"
+ },
+ "SD-01": {
+  "ddhq_id": 295060,
+  "district": "At-Large",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/south-dakota-us-house-at-large-general-election"
+ },
+ "SD-GOV": {
+  "ddhq_id": 701777,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/south-dakota-governor-general-election"
+ },
+ "SD-SEN": {
+  "ddhq_id": 294700,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/south-dakota-us-senate-general-election"
+ },
+ "TN-01": {
+  "ddhq_id": 295061,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/tennessee-us-house-1-general-election"
+ },
+ "TN-02": {
+  "ddhq_id": 295062,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/tennessee-us-house-2-general-election"
+ },
+ "TN-03": {
+  "ddhq_id": 295063,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/tennessee-us-house-3-general-election"
+ },
+ "TN-04": {
+  "ddhq_id": 295064,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/tennessee-us-house-4-general-election"
+ },
+ "TN-05": {
+  "ddhq_id": 295065,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/tennessee-us-house-5-general-election"
+ },
+ "TN-06": {
+  "ddhq_id": 295066,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/tennessee-us-house-6-general-election"
+ },
+ "TN-07": {
+  "ddhq_id": 295067,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/tennessee-us-house-7-general-election"
+ },
+ "TN-08": {
+  "ddhq_id": 295068,
+  "district": "8",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/tennessee-us-house-8-general-election"
+ },
+ "TN-09": {
+  "ddhq_id": 295069,
+  "district": "9",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/tennessee-us-house-9-general-election"
+ },
+ "TN-GOV": {
+  "ddhq_id": 716993,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/tennessee-governor-general-election"
+ },
+ "TN-SEN": {
+  "ddhq_id": 294701,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/tennessee-us-senate-general-election"
+ },
+ "TX-01": {
+  "ddhq_id": 295070,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-1-general-election"
+ },
+ "TX-02": {
+  "ddhq_id": 295071,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-2-general-election"
+ },
+ "TX-03": {
+  "ddhq_id": 295072,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-3-general-election"
+ },
+ "TX-04": {
+  "ddhq_id": 295073,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-4-general-election"
+ },
+ "TX-05": {
+  "ddhq_id": 295074,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-5-general-election"
+ },
+ "TX-06": {
+  "ddhq_id": 295075,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-6-general-election"
+ },
+ "TX-07": {
+  "ddhq_id": 295076,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-7-general-election"
+ },
+ "TX-08": {
+  "ddhq_id": 295077,
+  "district": "8",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-8-general-election"
+ },
+ "TX-09": {
+  "ddhq_id": 295078,
+  "district": "9",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-9-general-election"
+ },
+ "TX-10": {
+  "ddhq_id": 295079,
+  "district": "10",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-10-general-election"
+ },
+ "TX-11": {
+  "ddhq_id": 295080,
+  "district": "11",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-11-general-election"
+ },
+ "TX-12": {
+  "ddhq_id": 295081,
+  "district": "12",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-12-general-election"
+ },
+ "TX-13": {
+  "ddhq_id": 295082,
+  "district": "13",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-13-general-election"
+ },
+ "TX-14": {
+  "ddhq_id": 295083,
+  "district": "14",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-14-general-election"
+ },
+ "TX-15": {
+  "ddhq_id": 295084,
+  "district": "15",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-15-general-election"
+ },
+ "TX-16": {
+  "ddhq_id": 295085,
+  "district": "16",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-16-general-election"
+ },
+ "TX-17": {
+  "ddhq_id": 295086,
+  "district": "17",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-17-general-election"
+ },
+ "TX-18": {
+  "ddhq_id": 295087,
+  "district": "18",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-18-general-election"
+ },
+ "TX-19": {
+  "ddhq_id": 295088,
+  "district": "19",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-19-general-election"
+ },
+ "TX-20": {
+  "ddhq_id": 295089,
+  "district": "20",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-20-general-election"
+ },
+ "TX-21": {
+  "ddhq_id": 295090,
+  "district": "21",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-21-general-election"
+ },
+ "TX-22": {
+  "ddhq_id": 295091,
+  "district": "22",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-22-general-election"
+ },
+ "TX-23": {
+  "ddhq_id": 295092,
+  "district": "23",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-23-general-election"
+ },
+ "TX-24": {
+  "ddhq_id": 295093,
+  "district": "24",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-24-general-election"
+ },
+ "TX-25": {
+  "ddhq_id": 295094,
+  "district": "25",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-25-general-election"
+ },
+ "TX-26": {
+  "ddhq_id": 295095,
+  "district": "26",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-26-general-election"
+ },
+ "TX-27": {
+  "ddhq_id": 295096,
+  "district": "27",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-27-general-election"
+ },
+ "TX-28": {
+  "ddhq_id": 295097,
+  "district": "28",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-28-general-election"
+ },
+ "TX-29": {
+  "ddhq_id": 295098,
+  "district": "29",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-29-general-election"
+ },
+ "TX-30": {
+  "ddhq_id": 295099,
+  "district": "30",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-30-general-election"
+ },
+ "TX-31": {
+  "ddhq_id": 295100,
+  "district": "31",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-31-general-election"
+ },
+ "TX-32": {
+  "ddhq_id": 295101,
+  "district": "32",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-32-general-election"
+ },
+ "TX-33": {
+  "ddhq_id": 295102,
+  "district": "33",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-33-general-election"
+ },
+ "TX-34": {
+  "ddhq_id": 295103,
+  "district": "34",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-34-general-election"
+ },
+ "TX-35": {
+  "ddhq_id": 295104,
+  "district": "35",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-35-general-election"
+ },
+ "TX-36": {
+  "ddhq_id": 295105,
+  "district": "36",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-36-general-election"
+ },
+ "TX-37": {
+  "ddhq_id": 295106,
+  "district": "37",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-37-general-election"
+ },
+ "TX-38": {
+  "ddhq_id": 295107,
+  "district": "38",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/texas-us-house-38-general-election"
+ },
+ "TX-GOV": {
+  "ddhq_id": 701534,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/texas-governor-general-election"
+ },
+ "TX-SEN": {
+  "ddhq_id": 294702,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/texas-us-senate-general-election"
+ },
+ "UT-01": {
+  "ddhq_id": 295108,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/utah-us-house-1-general-election"
+ },
+ "UT-02": {
+  "ddhq_id": 295109,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/utah-us-house-2-general-election"
+ },
+ "UT-03": {
+  "ddhq_id": 295110,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/utah-us-house-3-general-election"
+ },
+ "UT-04": {
+  "ddhq_id": 295111,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/utah-us-house-4-general-election"
+ },
+ "VA-01": {
+  "ddhq_id": 295113,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/virginia-us-house-1-general-election"
+ },
+ "VA-02": {
+  "ddhq_id": 295114,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/virginia-us-house-2-general-election"
+ },
+ "VA-03": {
+  "ddhq_id": 295115,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/virginia-us-house-3-general-election"
+ },
+ "VA-04": {
+  "ddhq_id": 295116,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/virginia-us-house-4-general-election"
+ },
+ "VA-05": {
+  "ddhq_id": 295117,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/virginia-us-house-5-general-election"
+ },
+ "VA-06": {
+  "ddhq_id": 295118,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/virginia-us-house-6-general-election"
+ },
+ "VA-07": {
+  "ddhq_id": 295119,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/virginia-us-house-7-general-election"
+ },
+ "VA-08": {
+  "ddhq_id": 295120,
+  "district": "8",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/virginia-us-house-8-general-election"
+ },
+ "VA-09": {
+  "ddhq_id": 295121,
+  "district": "9",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/virginia-us-house-9-general-election"
+ },
+ "VA-10": {
+  "ddhq_id": 295122,
+  "district": "10",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/virginia-us-house-10-general-election"
+ },
+ "VA-11": {
+  "ddhq_id": 295123,
+  "district": "11",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/virginia-us-house-11-general-election"
+ },
+ "VA-SEN": {
+  "ddhq_id": 294703,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/virginia-us-senate-general-election"
+ },
+ "VT-01": {
+  "ddhq_id": 295112,
+  "district": "At-Large",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/vermont-us-house-at-large-general-election"
+ },
+ "VT-GOV": {
+  "ddhq_id": 716994,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/vermont-governor-general-election"
+ },
+ "WA-01": {
+  "ddhq_id": 295124,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/washington-us-house-1-general-election"
+ },
+ "WA-02": {
+  "ddhq_id": 295125,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/washington-us-house-2-general-election"
+ },
+ "WA-03": {
+  "ddhq_id": 295126,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/washington-us-house-3-general-election"
+ },
+ "WA-04": {
+  "ddhq_id": 295127,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/washington-us-house-4-general-election"
+ },
+ "WA-05": {
+  "ddhq_id": 295128,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/washington-us-house-5-general-election"
+ },
+ "WA-06": {
+  "ddhq_id": 295129,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/washington-us-house-6-general-election"
+ },
+ "WA-07": {
+  "ddhq_id": 295130,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/washington-us-house-7-general-election"
+ },
+ "WA-08": {
+  "ddhq_id": 295131,
+  "district": "8",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/washington-us-house-8-general-election"
+ },
+ "WA-09": {
+  "ddhq_id": 295132,
+  "district": "9",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/washington-us-house-9-general-election"
+ },
+ "WA-10": {
+  "ddhq_id": 295133,
+  "district": "10",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/washington-us-house-10-general-election"
+ },
+ "WI-01": {
+  "ddhq_id": 295136,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/wisconsin-us-house-1-general-election"
+ },
+ "WI-02": {
+  "ddhq_id": 295137,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/wisconsin-us-house-2-general-election"
+ },
+ "WI-03": {
+  "ddhq_id": 295138,
+  "district": "3",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/wisconsin-us-house-3-general-election"
+ },
+ "WI-04": {
+  "ddhq_id": 295139,
+  "district": "4",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/wisconsin-us-house-4-general-election"
+ },
+ "WI-05": {
+  "ddhq_id": 295140,
+  "district": "5",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/wisconsin-us-house-5-general-election"
+ },
+ "WI-06": {
+  "ddhq_id": 295141,
+  "district": "6",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/wisconsin-us-house-6-general-election"
+ },
+ "WI-07": {
+  "ddhq_id": 295142,
+  "district": "7",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/wisconsin-us-house-7-general-election"
+ },
+ "WI-08": {
+  "ddhq_id": 295143,
+  "district": "8",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/wisconsin-us-house-8-general-election"
+ },
+ "WI-GOV": {
+  "ddhq_id": 770252,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/wisconsin-governor-general-election"
+ },
+ "WV-01": {
+  "ddhq_id": 295134,
+  "district": "1",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/west-virginia-us-house-1-general-election"
+ },
+ "WV-02": {
+  "ddhq_id": 295135,
+  "district": "2",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/west-virginia-us-house-2-general-election"
+ },
+ "WV-SEN": {
+  "ddhq_id": 294704,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/west-virginia-us-senate-general-election"
+ },
+ "WY-01": {
+  "ddhq_id": 295144,
+  "district": "At-Large",
+  "election_type": "General Election",
+  "office": "US House",
+  "slug": "2026-11-03/wyoming-us-house-at-large-general-election"
+ },
+ "WY-GOV": {
+  "ddhq_id": 716996,
+  "district": null,
+  "election_type": "General Election",
+  "office": "Governor",
+  "slug": "2026-11-03/wyoming-governor-general-election"
+ },
+ "WY-SEN": {
+  "ddhq_id": 294705,
+  "district": null,
+  "election_type": "General Election",
+  "office": "US Senate",
+  "slug": "2026-11-03/wyoming-us-senate-general-election"
+ }
+}
